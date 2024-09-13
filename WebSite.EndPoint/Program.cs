@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Persistence.Context;
+
 namespace WebSite.EndPoint
 {
     public class Program
@@ -8,6 +11,12 @@ namespace WebSite.EndPoint
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            #region ConnectionString
+
+            builder.Services.AddDbContext<DataBaseContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
+
+            #endregion
 
             var app = builder.Build();
 
