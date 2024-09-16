@@ -10,8 +10,6 @@ namespace Application.Interfaces.Contexts
 {
     public interface IDataBaseContext
     {
-        DbSet<User> Users { get; set; }
-
         int SaveChanges();
         int SaveChanges(bool acceptAllChangesOnSuccess);
         Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);

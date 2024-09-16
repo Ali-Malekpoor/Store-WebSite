@@ -15,6 +15,7 @@ namespace WebSite.EndPoint
             #region ConnectionString
 
             builder.Services.AddDbContext<DataBaseContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
+            builder.Services.AddDbContext<IdentityDataBaseContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
 
             #endregion
 

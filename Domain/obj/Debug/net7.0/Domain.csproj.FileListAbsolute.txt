@@ -9,3 +9,4 @@ F:\Ali\Programing\Store WebSite\DigiStore\Domain\obj\Debug\net7.0\Domain.dll
 F:\Ali\Programing\Store WebSite\DigiStore\Domain\obj\Debug\net7.0\refint\Domain.dll
 F:\Ali\Programing\Store WebSite\DigiStore\Domain\obj\Debug\net7.0\Domain.pdb
 F:\Ali\Programing\Store WebSite\DigiStore\Domain\obj\Debug\net7.0\ref\Domain.dll
+F:\Ali\Programing\Store WebSite\DigiStore\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache

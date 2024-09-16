@@ -12,7 +12,7 @@ namespace Persistence.Context
 {
     public class DataBaseContext : DbContext, IDataBaseContext
     {
-        public DataBaseContext(DbContextOptions options) : base(options)
+        public DataBaseContext(DbContextOptions<DataBaseContext> options) : base(options)
         {
 
         }
@@ -69,9 +69,5 @@ namespace Persistence.Context
 
             return base.SaveChanges(); 
         }
-
-        public DbSet<User> Users { get; set; }
-
-
     }
 }
