@@ -1,0 +1,8 @@
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.csproj.AssemblyReference.cache
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.AssemblyInfoInputs.cache
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.AssemblyInfo.cs
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.csproj.CoreCompileInputs.cache
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.RazorAssemblyInfo.cache
+F:\Ali\Programing\Store WebSite\DigiStore\Admin.EndPoint\obj\Debug\net5.0\Admin.EndPoint.RazorAssemblyInfo.cs
