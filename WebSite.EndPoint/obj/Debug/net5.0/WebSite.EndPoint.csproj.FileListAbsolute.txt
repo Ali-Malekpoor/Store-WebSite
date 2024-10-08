@@ -162,3 +162,5 @@ F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\bin\Debug\net5.0\zh-H
 F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Ali\Programing\Store WebSite\DigiStore\WebSite.EndPoint\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
